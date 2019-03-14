@@ -1,5 +1,5 @@
 
-<!fndsjkfbhdsjfsbh>
+<!fndsjkfbh>
 
 
 <div id="cabecera">
